@@ -1,4 +1,4 @@
-Lab Session 3
+Lab Session 2
 --
 The objectives of this third lab session is to perform experiments using pruning methods.
 
