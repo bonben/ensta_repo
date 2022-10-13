@@ -23,15 +23,13 @@ The goal of today's session is to apply this previous knowledge in order to impl
 
 There are several ways to prune, be innovative ! Different ratios, on different layers, different pruning criteria, diffrent ways of finetuning... Play !
 
-Part 2 - Combining all techniques on CIFAR10 and CIFAR100
+Part 2 - Combining all techniques
 --
-Now, it's your turn to combine everything we have seen so far to start performing some interesting comparisons using the three datasets CIFAR10 and CIFAR100.
+Now, you will try to prune your own neural network.
 
 Consider the different factors that can influence the total memory footprint needed to store the network parameters as well as feature maps / activations.
 
 The key question we are interested in :
 
 **What is the best achievable accuracy with the smallest memory footprint ?**
-
-Prepare a presentation for session 5, detailing your methodology and explorations to adress this question. You will have 10 minutes to present, followed by 5 minutes of questions. Good luck !
 
