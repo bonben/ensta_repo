@@ -16,6 +16,7 @@ Familiarize yourself with pytorch by doing the [Pytorch_tutorial.ipynb](Pytorch_
 The following code can be used to obtain a DataLoader for MNIST, ready for training in pytorch : 
 
 ```python
+import os
 from torchvision.datasets import MNIST
 import numpy as np 
 import torchvision.transforms as transforms
